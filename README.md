@@ -4,7 +4,7 @@
 
 An **enterprise-grade automated system** that solves the critical problem of poor lead quality from Meta Ads by creating a continuous feedback loop between lead performance data and Meta's targeting algorithm. Built as a **full-time employee at a Mumbai-based PropTech startup** (channel partner firm) to bridge the massive quality gap between Meta and Google Ads leads in the Indian Real Estate market.
 
----
+
 
 https://github.com/user-attachments/assets/af7b5773-f6c0-4444-9936-6f214dc68c98
 
@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/af7b5773-f6c0-4444-9936-6f214dc68c98
 - Marketing couldn't optimize campaigns beyond basic metrics (CTR, CPL)
 - Massive disconnect between **marketing metrics** (volume) and **sales reality** (quality)
 
----
+
 
 ## ✅ The Solution
 
@@ -35,7 +35,7 @@ A smart feedback loop system that **teaches Meta what a "good lead" looks like**
 
 > Think of it as giving Meta a report card for every lead it sends, so it gets smarter over time.
 
----
+
 
 ## 📊 Quality Scoring System
 
@@ -60,11 +60,11 @@ After first contact, sales reps provide a **1-5 rating**:
 - **1 (Bad)**: Fake info, no intent, time-waster
 
 **Final Score Formula:**  
-```
-Quality Score = (Automated Factors × 0.80) + (Sales Rating × 0.20)
-```
 
----
+Quality Score = (Automated Factors × 0.80) + (Sales Rating × 0.20)
+
+
+
 
 ## 🔁 How The Feedback Loop Works
 
@@ -80,7 +80,7 @@ Quality Score = (Automated Factors × 0.80) + (Sales Rating × 0.20)
 
 This cycle repeats **every single day**, creating compound improvements.
 
----
+
 
 ## 📈 Key Metrics & Results
 
@@ -108,7 +108,7 @@ This cycle repeats **every single day**, creating compound improvements.
 - **47 optimization cycles** completed
 - **99.8% uptime**
 
----
+
 
 ## 🎨 Dashboard Features
 
@@ -138,7 +138,7 @@ This cycle repeats **every single day**, creating compound improvements.
 - Smooth hover effects and transitions
 - Fully responsive (desktop/tablet/mobile)
 
----
+
 
 ## 🔌 Tech Stack
 
@@ -150,7 +150,7 @@ This cycle repeats **every single day**, creating compound improvements.
 | **APIs** | Meta Conversions API, CRM integration |
 | **Deployment** | Cloud-hosted, auto-scaling |
 
----
+
 
 ## 💡 Why This Matters
 
@@ -160,7 +160,6 @@ This cycle repeats **every single day**, creating compound improvements.
 
 The breakthrough was **closing the feedback loop** - most companies track conversions but never tell ad platforms *which leads were actually good*. This dashboard makes lead quality a first-class metric that drives algorithmic improvement.
 
----
 
 <div align="center">
 
